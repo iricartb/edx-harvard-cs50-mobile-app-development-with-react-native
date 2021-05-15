@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQENxF6JjenhOg/article-cover_image-shrink_720_1280/0/1592778824382?e=1626307200&v=beta&t=qRtde1GYPCjKPq3HyKKoV1Ed1RcJNwVVoKNI_RWQN-A" width="100%" />
+<img src="https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/mobile-app-development-with-react-native-1xcryefi.jpg" width="100%" />
 
 <h1>CS50's Mobile App Development with React Native</h1>
 
