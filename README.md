@@ -11,11 +11,11 @@ The course introduces you to modern JavaScript (including ES6 and ES7) as well a
 The goal of this project is to practice JavaScript and its paradigms by creating a TODO app. This app should be able to add TODOs and track the number of total TODOs as well as the number of unchecked TODOs.
 
 <h3>PROJECT 1 - Pomodoro Timer</h3>
-For this project, you'll be implementing a Pomodoro timer. This timer will help people trying to use the [Pomodoro Technique](https://en.wikipedia.or/wiki/Pomodoro_Technique).<br><br>
+For this project, you'll be implementing a Pomodoro timer. This timer will help people trying to use the [Pomodoro Technique] (https://en.wikipedia.or/wiki/Pomodoro_Technique).<br><br>
 It will vibrate to tell you when to take breaks or resume working, based on some determined values.
 
 <h3>PROJECT 2 - Movie Browser - OMDb API REST</h3>
-For this project, you'll be implementing a movie browser. It will allow users to search for movies included in the [Open Movie Database](http://www.omdbapi.com/) and view additional information about any movies they select.
+For this project, you'll be implementing a movie browser. It will allow users to search for movies included in the [Open Movie Database] (http://www.omdbapi.com/) and view additional information about any movies they select.
 
 <h3>PROJECT 3 - FINAL - Trivial - OTDb API REST</h3>
-For this project, you'll be implementing a trivial game. It will allow users to play trivial game using the [Open Trivial Database](https://opentdb.com/).
+For this project, you'll be implementing a trivial game. It will allow users to play trivial game using the [Open Trivial Database] (https://opentdb.com/).
