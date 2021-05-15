@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQENxF6JjenhOg/article-cover_image-shrink_720_1280/0/1592778824382?e=1626307200&v=beta&t=qRtde1GYPCjKPq3HyKKoV1Ed1RcJNwVVoKNI_RWQN-A" width="100%" />
+
 <h1>CS50's Mobile App Dev. React Native</h1>
 
 <h2>Course description</h2>
